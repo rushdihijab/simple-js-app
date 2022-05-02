@@ -1,9 +1,5 @@
-
-myName = 'Hello World';
-alert(myName);
-let favoriteFood = 'apple';
-document.write(favoriteFood);
-//let size = 100;
-//let doubleSize = size * 2;
-//let minSize = (doubleSize * 2) - (size / 2);
-//document.write(minSize);
+let pokemonList =[
+  {name: "Bulbasaur", height: 7, types:['grass', 'poison'] },
+  {name: "Ivysaur", height: 10, types:['monster', 'grass'] },
+  {name: "Charmander", height: 6, types:['monster', 'dragon'] },
+];
