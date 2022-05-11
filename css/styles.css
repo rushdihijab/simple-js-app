@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+  background-color: #e1a49d;
+}
+body{
+  font-family: 'Indie Flower', cursive;
+  font-weight: 400;
+  font-size: 16px
+}
+body{
+  max-width: 700px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+a {
+    color: white;
+}
+a:visited {
+    color: black;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+
+a:active {
+
+    color: red;
+}
